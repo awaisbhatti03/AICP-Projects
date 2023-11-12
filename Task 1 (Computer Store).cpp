@@ -404,7 +404,7 @@ void purchase()
 		
 			cout<<"You have bought:\n";
 			cout<<"Basic Components: $200\n";
-			cout<<"Case: "<<pcase<<"\nRAM: "<<pram<<"\nHard Disk Drive: "<<pmain_hdd<<"\nSolid State Disk: "<<pssd<<"\nSecondary Harrd Disk Drive: "<<psecond_hdd<<"\nOptical Drive: "<<poptical_drive<<"OS: "<<pOS<<endl;
+			cout<<"Case: "<<pcase<<"\nRAM: "<<pram<<"\nHard Disk Drive: "<<pmain_hdd<<"\nSolid State Disk: "<<pssd<<"\nSecondary Harrd Disk Drive: "<<psecond_hdd<<"\nOptical Drive: "<<poptical_drive<<"\nOS: "<<pOS<<endl;
 			cout<<"\nYour Original bill is: $"<<bill<<endl;
 			cout<<"\nBill payable after 5% discount is: "<<bill-(bill* 5/100.0);
 			exit();	
@@ -416,7 +416,7 @@ void purchase()
 		
 			cout<<"You have bought:\n";
 			cout<<"Basic Components: $200\n";
-			cout<<"Case: "<<pcase<<"\nRAM: "<<pram<<"\nHard Disk Drive: "<<pmain_hdd<<"\nSolid State Disk: "<<pssd<<"\nSecondary Harrd Disk Drive: "<<psecond_hdd<<"\nOptical Drive: "<<poptical_drive<<"OS: "<<pOS<<endl;
+			cout<<"Case: "<<pcase<<"\nRAM: "<<pram<<"\nHard Disk Drive: "<<pmain_hdd<<"\nSolid State Disk: "<<pssd<<"\nSecondary Harrd Disk Drive: "<<psecond_hdd<<"\nOptical Drive: "<<poptical_drive<<"\nOS: "<<pOS<<endl;
 			cout<<"\nYour Original bill is: $"<<bill<<endl;
 			cout<<"\nBill payable after 10% discount is: "<<bill-(bill* 10/100.0);
 			exit();	
